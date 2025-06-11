@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  webhook-server:
+    build: .
+    ports:
+      - "59999:59999"
+    volumes:
+      - ./server.py:/app/server.py
+    restart: unless-stopped 
