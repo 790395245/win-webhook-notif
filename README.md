@@ -10,6 +10,11 @@
 
 通知会自动复制到剪贴板。
 
+## 界面
+
+![img1](https://blog.rz15.cn/wp-content/uploads/2025/06/企业微信截图_17496339625125.png)
+![img2](https://blog.rz15.cn/wp-content/uploads/2025/06/企业微信截图_1749634036661.png)
+
 ## 使用说明
 
 1. 服务端(默认端口59999)：
